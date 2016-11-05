@@ -14,6 +14,71 @@
             "location": "/#a-brief-history-of-the-web",
             "text": "Just an idea about how to introduce the different technologies. Using the historic perspective might be good to explain why the technology developed like it did.",
             "title": "A brief history of the web"
+        },
+        {
+            "location": "/stash/",
+            "text": "Konzepte\n\n\nAm besten geschichtlich die Entwicklung aufdr\u00f6seln ...\n\n\nEnfache statische Webseite\n\n\nLayout und styling mit CSS\n\n\nInteraktivit\u00e4t/Dynamik mit Javascript (Client)\n\n\nWeb Frameworks mit Build Schritt\n\n\nTech Stack\n\n\nBackend (running on the server)\n\n\n\n\nFlask\n\n\nTinyDB\n \n\n\nWTForms\n\n\n\n\nFrontend (running in the borwser)\n\n\n\n\nsemantic-ui\n\n\n\n\nFrontend search with Javascript?\n\n\n\n\n\n\n\n\nhttp://lunrjs.com/\n\n\n\n\n\n\nsearch.js (used in mkdocs)\n\n\n\n\nHosting\n\n\npythonanywhere\n\n\nNecessary configuration in PyCharm\n\n\n\n\npytest as testing framework\n\n\nJinja2 as template language\n\n\ncodecats_cv/view\n as templates directory\n\n\n\n\nImportant Concepts\n\n\n\n\nDon't suffer from NIH\n\n\nDRY\n\n\nSeparation of Concerns",
+            "title": "Stash"
+        },
+        {
+            "location": "/stash/#konzepte",
+            "text": "Am besten geschichtlich die Entwicklung aufdr\u00f6seln ...",
+            "title": "Konzepte"
+        },
+        {
+            "location": "/stash/#enfache-statische-webseite",
+            "text": "",
+            "title": "Enfache statische Webseite"
+        },
+        {
+            "location": "/stash/#layout-und-styling-mit-css",
+            "text": "",
+            "title": "Layout und styling mit CSS"
+        },
+        {
+            "location": "/stash/#interaktivitatdynamik-mit-javascript-client",
+            "text": "",
+            "title": "Interaktivit\u00e4t/Dynamik mit Javascript (Client)"
+        },
+        {
+            "location": "/stash/#web-frameworks-mit-build-schritt",
+            "text": "",
+            "title": "Web Frameworks mit Build Schritt"
+        },
+        {
+            "location": "/stash/#tech-stack",
+            "text": "",
+            "title": "Tech Stack"
+        },
+        {
+            "location": "/stash/#backend-running-on-the-server",
+            "text": "Flask  TinyDB    WTForms",
+            "title": "Backend (running on the server)"
+        },
+        {
+            "location": "/stash/#frontend-running-in-the-borwser",
+            "text": "semantic-ui",
+            "title": "Frontend (running in the borwser)"
+        },
+        {
+            "location": "/stash/#frontend-search-with-javascript",
+            "text": "http://lunrjs.com/    search.js (used in mkdocs)",
+            "title": "Frontend search with Javascript?"
+        },
+        {
+            "location": "/stash/#hosting",
+            "text": "pythonanywhere",
+            "title": "Hosting"
+        },
+        {
+            "location": "/stash/#necessary-configuration-in-pycharm",
+            "text": "pytest as testing framework  Jinja2 as template language  codecats_cv/view  as templates directory",
+            "title": "Necessary configuration in PyCharm"
+        },
+        {
+            "location": "/stash/#important-concepts",
+            "text": "Don't suffer from NIH  DRY  Separation of Concerns",
+            "title": "Important Concepts"
         }
     ]
 }
