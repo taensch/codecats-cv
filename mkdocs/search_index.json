@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Codecats CV\n\n\nbla bla bla\n\n\nA brief history of the web\n\n\nJust an idea about how to introduce the different technologies. Using the historic perspective might be good to explain why the technology developed like it did.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-codecats-cv",
+            "text": "bla bla bla",
+            "title": "Welcome to Codecats CV"
+        },
+        {
+            "location": "/#a-brief-history-of-the-web",
+            "text": "Just an idea about how to introduce the different technologies. Using the historic perspective might be good to explain why the technology developed like it did.",
+            "title": "A brief history of the web"
+        }
+    ]
+}
