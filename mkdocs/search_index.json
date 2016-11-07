@@ -1,143 +1,153 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Welcome to Codecats CV\n\n\nThe aim of this course is to give you a glimpse into the world of web development as it is practiced today. The main challenge for a newcomer is that there is a vast array of technologies and languages to get a grasp on before you are able to understand how it all works.\n\n\nIn this course we are trying to give you a basic understanding about one possible technology stack by building a very simple application that makes use of all the technologies and brings them together.\n\n\nAs we will cover the complete process from idea to implementation and deployment the actual application is very simple but can be a good starting point to explore the technology further on your own. \n\n\nThis documentation therefore is meant to accompany the course but also give you pointers for you own journey of exploration for which this course could be a starting point.",
+            "location": "/", 
+            "text": "Welcome to Codecats CV\n\n\nThe aim of this course is to give you a glimpse into the world of web development as it is practiced today. The main challenge for a newcomer is that there is a vast array of technologies and languages to get a grasp on before you are able to understand how it all works.\n\n\nIn this course we are trying to give you a basic understanding about one possible technology stack by building a very simple application that makes use of all the technologies and brings them together.\n\n\nAs we will cover the complete process from idea to implementation and deployment the actual application is very simple but can be a good starting point to explore the technology further on your own. \n\n\nThis documentation therefore is meant to accompany the course but also give you pointers for you own journey of exploration for which this course could be a starting point.", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#welcome-to-codecats-cv",
-            "text": "The aim of this course is to give you a glimpse into the world of web development as it is practiced today. The main challenge for a newcomer is that there is a vast array of technologies and languages to get a grasp on before you are able to understand how it all works.  In this course we are trying to give you a basic understanding about one possible technology stack by building a very simple application that makes use of all the technologies and brings them together.  As we will cover the complete process from idea to implementation and deployment the actual application is very simple but can be a good starting point to explore the technology further on your own.   This documentation therefore is meant to accompany the course but also give you pointers for you own journey of exploration for which this course could be a starting point.",
+            "location": "/#welcome-to-codecats-cv", 
+            "text": "The aim of this course is to give you a glimpse into the world of web development as it is practiced today. The main challenge for a newcomer is that there is a vast array of technologies and languages to get a grasp on before you are able to understand how it all works.  In this course we are trying to give you a basic understanding about one possible technology stack by building a very simple application that makes use of all the technologies and brings them together.  As we will cover the complete process from idea to implementation and deployment the actual application is very simple but can be a good starting point to explore the technology further on your own.   This documentation therefore is meant to accompany the course but also give you pointers for you own journey of exploration for which this course could be a starting point.", 
             "title": "Welcome to Codecats CV"
-        },
+        }, 
         {
-            "location": "/tech/stack/",
-            "text": "The Tech Stack\n\n\nIf you want to learn about developing web applications in 2016 the main problem is that you have an wide array of languages, technologies, frameworks, tools and hosters to choose from, which is simply overwhelming.\n\n\nTODO\n add good introductory resource for all used technologies\n\n\nHyperText Markup Language (HTML)\n\n\n\n\nThe only thing really necessary to make a web site\n\n\n\n\nCascading Style Sheets (CSS)\n\n\n\n\nmakes web sites look better\n\n\nNowadays often used with an extra layer of abstraction to overcome shortcomings (e.g. Less and Sass)\n\n\n\n\nJavascript\n\n\n\n\nThe only programming language running natively on all mainstream browsers\n\n\nTherefore very likely the most used programming language on the planet at the moment\n\n\nAlso used on server side nowadays (e.g. NodeJS)\n\n\n\n\nSemantic UI\n\n\n\n\nProvides you the means to create a modern website without having to start from scratch\n\n\nSolves a lot of problems for you (e.g. dealing with browser incompatibilities)\n\n\nIs basically a collection of CSS and Javascript to be used on your site\n\n\n\n\nMainstream alternative: Bootstrap\n\n\nPython\n\n\n\n\nVery high level general purpose programming language\n\n\nGood language for beginners\n\n\nSecond best language for everything\n\n\nVery mature (around since the early 1990s)\n\n\nhuge library support\n\n\n\n\nJinja2\n\n\n\n\nTemplating language for dynamic text generation\n\n\nHelps you to glue together your HTML/CSS/Javascript and application code\n\n\n\n\nJSON\n\n\n\n\nWidely used format to save and transfer data",
+            "location": "/tech/stack/", 
+            "text": "The Tech Stack\n\n\nIf you want to learn about developing web applications in 2016 the main problem is that you have an wide array of languages, technologies, frameworks, tools and hosters to choose from, which is simply overwhelming.\n\n\nTODO\n add good introductory resource for all used technologies\n\n\nHyperText Markup Language (HTML)\n\n\n\n\nThe only thing really necessary to make a web site\n\n\n\n\nCascading Style Sheets (CSS)\n\n\n\n\nmakes web sites look better\n\n\nNowadays often used with an extra layer of abstraction to overcome shortcomings (e.g. Less and Sass)\n\n\n\n\nJavascript\n\n\n\n\nThe only programming language running natively on all mainstream browsers\n\n\nTherefore very likely the most used programming language on the planet at the moment\n\n\nAlso used on server side nowadays (e.g. NodeJS)\n\n\n\n\nSemantic UI\n\n\n\n\nProvides you the means to create a modern website without having to start from scratch\n\n\nSolves a lot of problems for you (e.g. dealing with browser incompatibilities)\n\n\nIs basically a collection of CSS and Javascript to be used on your site\n\n\n\n\nMainstream alternative: Bootstrap\n\n\nPython\n\n\n\n\nVery high level general purpose programming language\n\n\nGood language for beginners\n\n\nSecond best language for everything\n\n\nVery mature (around since the early 1990s)\n\n\nhuge library support\n\n\n\n\nJinja2\n\n\n\n\nTemplating language for dynamic text generation\n\n\nHelps you to glue together your HTML/CSS/Javascript and application code\n\n\n\n\nYet Another Markup Language (YAML)\n\n\n\n\nWidely used format to save structured data\n\n\ne.g. used in the configuration for MkDocs and Travis\n\n\n\n\nINI Format\n\n\n\n\nAnother widely used format to save structured data\n\n\ne.g. used for configuring tox\n\n\n\n\nJSON\n\n\n\n\nWidely used data storage and transfer format", 
             "title": "Overview"
-        },
+        }, 
         {
-            "location": "/tech/stack/#the-tech-stack",
-            "text": "If you want to learn about developing web applications in 2016 the main problem is that you have an wide array of languages, technologies, frameworks, tools and hosters to choose from, which is simply overwhelming.  TODO  add good introductory resource for all used technologies",
+            "location": "/tech/stack/#the-tech-stack", 
+            "text": "If you want to learn about developing web applications in 2016 the main problem is that you have an wide array of languages, technologies, frameworks, tools and hosters to choose from, which is simply overwhelming.  TODO  add good introductory resource for all used technologies", 
             "title": "The Tech Stack"
-        },
+        }, 
         {
-            "location": "/tech/stack/#hypertext-markup-language-html",
-            "text": "The only thing really necessary to make a web site",
+            "location": "/tech/stack/#hypertext-markup-language-html", 
+            "text": "The only thing really necessary to make a web site", 
             "title": "HyperText Markup Language (HTML)"
-        },
+        }, 
         {
-            "location": "/tech/stack/#cascading-style-sheets-css",
-            "text": "makes web sites look better  Nowadays often used with an extra layer of abstraction to overcome shortcomings (e.g. Less and Sass)",
+            "location": "/tech/stack/#cascading-style-sheets-css", 
+            "text": "makes web sites look better  Nowadays often used with an extra layer of abstraction to overcome shortcomings (e.g. Less and Sass)", 
             "title": "Cascading Style Sheets (CSS)"
-        },
+        }, 
         {
-            "location": "/tech/stack/#javascript",
-            "text": "The only programming language running natively on all mainstream browsers  Therefore very likely the most used programming language on the planet at the moment  Also used on server side nowadays (e.g. NodeJS)",
+            "location": "/tech/stack/#javascript", 
+            "text": "The only programming language running natively on all mainstream browsers  Therefore very likely the most used programming language on the planet at the moment  Also used on server side nowadays (e.g. NodeJS)", 
             "title": "Javascript"
-        },
+        }, 
         {
-            "location": "/tech/stack/#semantic-ui",
-            "text": "Provides you the means to create a modern website without having to start from scratch  Solves a lot of problems for you (e.g. dealing with browser incompatibilities)  Is basically a collection of CSS and Javascript to be used on your site   Mainstream alternative: Bootstrap",
+            "location": "/tech/stack/#semantic-ui", 
+            "text": "Provides you the means to create a modern website without having to start from scratch  Solves a lot of problems for you (e.g. dealing with browser incompatibilities)  Is basically a collection of CSS and Javascript to be used on your site   Mainstream alternative: Bootstrap", 
             "title": "Semantic UI"
-        },
+        }, 
         {
-            "location": "/tech/stack/#python",
-            "text": "Very high level general purpose programming language  Good language for beginners  Second best language for everything  Very mature (around since the early 1990s)  huge library support",
+            "location": "/tech/stack/#python", 
+            "text": "Very high level general purpose programming language  Good language for beginners  Second best language for everything  Very mature (around since the early 1990s)  huge library support", 
             "title": "Python"
-        },
+        }, 
         {
-            "location": "/tech/stack/#jinja2",
-            "text": "Templating language for dynamic text generation  Helps you to glue together your HTML/CSS/Javascript and application code",
+            "location": "/tech/stack/#jinja2", 
+            "text": "Templating language for dynamic text generation  Helps you to glue together your HTML/CSS/Javascript and application code", 
             "title": "Jinja2"
-        },
+        }, 
         {
-            "location": "/tech/stack/#json",
-            "text": "Widely used format to save and transfer data",
+            "location": "/tech/stack/#yet-another-markup-language-yaml", 
+            "text": "Widely used format to save structured data  e.g. used in the configuration for MkDocs and Travis", 
+            "title": "Yet Another Markup Language (YAML)"
+        }, 
+        {
+            "location": "/tech/stack/#ini-format", 
+            "text": "Another widely used format to save structured data  e.g. used for configuring tox", 
+            "title": "INI Format"
+        }, 
+        {
+            "location": "/tech/stack/#json", 
+            "text": "Widely used data storage and transfer format", 
             "title": "JSON"
-        },
+        }, 
         {
-            "location": "/tech/python/",
-            "text": "Python programming language\n\n\n TODO \n Use Mau Mau as to introduce the other tools and libraries\n\n\nFlask (Micro Web Framework)\n\n\nFor creating web applications.\n\n\nHello World in Flask:\n\n\nfrom flask import Flask\napp = Flask(__name__)\n\n@app.route(\"/\")\ndef hello():\n    return \"Hello World!\"\n\nif __name__ == \"__main__\":\n    app.run()\n\n\n\nTinyDB (simple Database)\n\n\nFor storing your",
+            "location": "/tech/python/", 
+            "text": "Python programming language\n\n\n TODO \n Use Mau Mau as to introduce the other tools and libraries\n\n\nFlask (Micro Web Framework)\n\n\nFor creating web applications.\n\n\nHello World in Flask:\n\n\nfrom flask import Flask\napp = Flask(__name__)\n\n@app.route(\"/\")\ndef hello():\n    return \"Hello World!\"\n\nif __name__ == \"__main__\":\n    app.run()\n\n\n\nTinyDB (simple Database)\n\n\nFor storing your", 
             "title": "Python"
-        },
+        }, 
         {
-            "location": "/tech/python/#python-programming-language",
-            "text": "TODO   Use Mau Mau as to introduce the other tools and libraries",
+            "location": "/tech/python/#python-programming-language", 
+            "text": "TODO   Use Mau Mau as to introduce the other tools and libraries", 
             "title": "Python programming language"
-        },
+        }, 
         {
-            "location": "/tech/python/#flask-micro-web-framework",
-            "text": "For creating web applications.  Hello World in Flask:  from flask import Flask\napp = Flask(__name__)\n\n@app.route(\"/\")\ndef hello():\n    return \"Hello World!\"\n\nif __name__ == \"__main__\":\n    app.run()",
+            "location": "/tech/python/#flask-micro-web-framework", 
+            "text": "For creating web applications.  Hello World in Flask:  from flask import Flask\napp = Flask(__name__)\n\n@app.route(\"/\")\ndef hello():\n    return \"Hello World!\"\n\nif __name__ == \"__main__\":\n    app.run()", 
             "title": "Flask (Micro Web Framework)"
-        },
+        }, 
         {
-            "location": "/tech/python/#tinydb-simple-database",
-            "text": "For storing your",
+            "location": "/tech/python/#tinydb-simple-database", 
+            "text": "For storing your", 
             "title": "TinyDB (simple Database)"
-        },
+        }, 
         {
-            "location": "/stash/",
-            "text": "Konzepte\n\n\nAm besten geschichtlich die Entwicklung aufdr\u00f6seln ...\n\n\nEnfache statische Webseite\n\n\nLayout und styling mit CSS\n\n\nInteraktivit\u00e4t/Dynamik mit Javascript (Client)\n\n\nWeb Frameworks mit Build Schritt\n\n\nTech Stack\n\n\nBackend (running on the server)\n\n\n\n\n\n\nFlask\n\n\n\n\n\n\nStorage: \nTinyDB\n \n\n\n\n\nFile Uploads: \nFlask uploads\n\n\nWTForms\n\n\nFlask-Login\n\n\n\n\nFrontend (running in the borwser)\n\n\n\n\nsemantic-ui\n\n\n\n\nFrontend search with Javascript?\n\n\n\n\n\n\n\n\nhttp://lunrjs.com/\n\n\n\n\n\n\nsearch.js (used in mkdocs)\n\n\n\n\nHosting\n\n\npythonanywhere\n\n\nNecessary configuration in PyCharm\n\n\n\n\npytest as testing framework\n\n\nJinja2 as template language\n\n\ncodecats_cv/view\n as templates directory\n\n\n\n\nImportant Concepts\n\n\n\n\nDon't suffer from NIH\n\n\nDRY\n\n\nSeparation of Concerns",
+            "location": "/stash/", 
+            "text": "Konzepte\n\n\nAm besten geschichtlich die Entwicklung aufdr\u00f6seln ...\n\n\nEnfache statische Webseite\n\n\nLayout und styling mit CSS\n\n\nInteraktivit\u00e4t/Dynamik mit Javascript (Client)\n\n\nWeb Frameworks mit Build Schritt\n\n\nTech Stack\n\n\nBackend (running on the server)\n\n\n\n\n\n\nFlask\n\n\n\n\n\n\nStorage: \nTinyDB\n \n\n\n\n\nFile Uploads: \nFlask uploads\n\n\nWTForms\n\n\nFlask-Login\n\n\n\n\nFrontend (running in the borwser)\n\n\n\n\nsemantic-ui\n\n\n\n\nFrontend search with Javascript?\n\n\n\n\n\n\n\n\nhttp://lunrjs.com/\n\n\n\n\n\n\nsearch.js (used in mkdocs)\n\n\n\n\nHosting\n\n\npythonanywhere\n\n\nNecessary configuration in PyCharm\n\n\n\n\npytest as testing framework\n\n\nJinja2 as template language\n\n\ncodecats_cv/view\n as templates directory\n\n\n\n\nImportant Concepts\n\n\n\n\nDon't suffer from NIH\n\n\nDRY\n\n\nSeparation of Concerns", 
             "title": "Stash"
-        },
+        }, 
         {
-            "location": "/stash/#konzepte",
-            "text": "Am besten geschichtlich die Entwicklung aufdr\u00f6seln ...",
+            "location": "/stash/#konzepte", 
+            "text": "Am besten geschichtlich die Entwicklung aufdr\u00f6seln ...", 
             "title": "Konzepte"
-        },
+        }, 
         {
-            "location": "/stash/#enfache-statische-webseite",
-            "text": "",
+            "location": "/stash/#enfache-statische-webseite", 
+            "text": "", 
             "title": "Enfache statische Webseite"
-        },
+        }, 
         {
-            "location": "/stash/#layout-und-styling-mit-css",
-            "text": "",
+            "location": "/stash/#layout-und-styling-mit-css", 
+            "text": "", 
             "title": "Layout und styling mit CSS"
-        },
+        }, 
         {
-            "location": "/stash/#interaktivitatdynamik-mit-javascript-client",
-            "text": "",
+            "location": "/stash/#interaktivitatdynamik-mit-javascript-client", 
+            "text": "", 
             "title": "Interaktivit\u00e4t/Dynamik mit Javascript (Client)"
-        },
+        }, 
         {
-            "location": "/stash/#web-frameworks-mit-build-schritt",
-            "text": "",
+            "location": "/stash/#web-frameworks-mit-build-schritt", 
+            "text": "", 
             "title": "Web Frameworks mit Build Schritt"
-        },
+        }, 
         {
-            "location": "/stash/#tech-stack",
-            "text": "",
+            "location": "/stash/#tech-stack", 
+            "text": "", 
             "title": "Tech Stack"
-        },
+        }, 
         {
-            "location": "/stash/#backend-running-on-the-server",
-            "text": "Flask    Storage:  TinyDB     File Uploads:  Flask uploads  WTForms  Flask-Login",
+            "location": "/stash/#backend-running-on-the-server", 
+            "text": "Flask    Storage:  TinyDB     File Uploads:  Flask uploads  WTForms  Flask-Login", 
             "title": "Backend (running on the server)"
-        },
+        }, 
         {
-            "location": "/stash/#frontend-running-in-the-borwser",
-            "text": "semantic-ui",
+            "location": "/stash/#frontend-running-in-the-borwser", 
+            "text": "semantic-ui", 
             "title": "Frontend (running in the borwser)"
-        },
+        }, 
         {
-            "location": "/stash/#frontend-search-with-javascript",
-            "text": "http://lunrjs.com/    search.js (used in mkdocs)",
+            "location": "/stash/#frontend-search-with-javascript", 
+            "text": "http://lunrjs.com/    search.js (used in mkdocs)", 
             "title": "Frontend search with Javascript?"
-        },
+        }, 
         {
-            "location": "/stash/#hosting",
-            "text": "pythonanywhere",
+            "location": "/stash/#hosting", 
+            "text": "pythonanywhere", 
             "title": "Hosting"
-        },
+        }, 
         {
-            "location": "/stash/#necessary-configuration-in-pycharm",
-            "text": "pytest as testing framework  Jinja2 as template language  codecats_cv/view  as templates directory",
+            "location": "/stash/#necessary-configuration-in-pycharm", 
+            "text": "pytest as testing framework  Jinja2 as template language  codecats_cv/view  as templates directory", 
             "title": "Necessary configuration in PyCharm"
-        },
+        }, 
         {
-            "location": "/stash/#important-concepts",
-            "text": "Don't suffer from NIH  DRY  Separation of Concerns",
+            "location": "/stash/#important-concepts", 
+            "text": "Don't suffer from NIH  DRY  Separation of Concerns", 
             "title": "Important Concepts"
         }
     ]
