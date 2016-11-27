@@ -1,1 +1,57 @@
-{"experiences": {"1": {"when": "2015 - TODAY", "referenceMail": "max@muster.com", "flag": "germany", "title": "Head of Project & Co-Founder", "location": "Friedrichshafen, Germany", "referenceName": "Max Muster", "what": "codecats", "img": "cc_logo.png", "category": "work", "description": "Some longwinded description what I did or do.", "url": "http://codecats.io"}, "2": {"when": "Past - Present", "referenceMail": "max@muster.com", "flag": "germany", "title": "Master of Desaster", "location": "Friedrichshafen, Germany", "referenceName": "Max Muster", "what": "Bla Bla", "img": "zu_logo.png", "category": "work", "description": "Some longwinded description what I did or do.", "url": "http://codecats.io"}, "3": {"when": "2015 - TODAY", "referenceMail": "max@muster.com", "flag": "germany", "title": "Head of Project & Co-Founder", "location": "Friedrichshafen, Germany", "referenceName": "Max Muster", "what": "codecats", "img": "cc_logo.png", "category": "education", "description": "Some longwinded description what I did or do.", "url": "http://codecats.io"}, "4": {"when": "Past - Present", "referenceMail": "max@muster.com", "flag": "germany", "title": "Master of Desaster", "location": "Friedrichshafen, Germany", "referenceName": "Max Muster", "what": "Bla Bla", "img": "zu_logo.png", "category": "education", "description": "Some longwinded description what I did or do.", "url": "http://codecats.io"}}, "_default": {}}
+{
+  "_default": {},
+  "experiences": {
+    "1": {
+      "when": "2015 - TODAY",
+      "referenceName": "Max Muster",
+      "url": "http://codecats.io",
+      "description": "Some longwinded description what I did or do.",
+      "location": "Friedrichshafen, Germany",
+      "flag": "germany",
+      "referenceMail": "max@muster.com",
+      "img": "cc_logo.png",
+      "title": "KKKKK",
+      "what": "codecats",
+      "category": "work"
+    },
+    "2": {
+      "when": "Past - Present",
+      "referenceName": "Max Muster",
+      "url": "http://codecats.io",
+      "description": "Some longwinded description what I did or do.",
+      "location": "Friedrichshafen, Germany",
+      "flag": "germany",
+      "referenceMail": "max@muster.com",
+      "img": "zu_logo.png",
+      "title": "Master of Desaster",
+      "what": "Bla Bla",
+      "category": "work"
+    },
+    "3": {
+      "when": "2015 - TODAY",
+      "referenceName": "Max Muster",
+      "url": "http://codecats.io",
+      "description": "Some longwinded description what I did or do.",
+      "location": "Friedrichshafen, Germany",
+      "flag": "germany",
+      "referenceMail": "max@muster.com",
+      "img": "cc_logo.png",
+      "title": "Head of Project & Co-Founder",
+      "what": "codecats",
+      "category": "education"
+    },
+    "4": {
+      "when": "Past - Present",
+      "referenceName": "Max Muster",
+      "url": "http://codecats.io",
+      "description": "Some longwinded description what I did or do.",
+      "location": "Friedrichshafen, Germany",
+      "flag": "germany",
+      "referenceMail": "max@muster.com",
+      "img": "zu_logo.png",
+      "title": "Master of Desaster",
+      "what": "Bla Bla",
+      "category": "education"
+    }
+  }
+}

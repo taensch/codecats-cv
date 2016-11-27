@@ -17,6 +17,8 @@ class ExperienceCategory:
 
 
 # TODO move this into a db table
+# Add new categories here: hobbies, social etc.
+
 NAME_CAT_MAP = OrderedDict({
     'work': ExperienceCategory('WORK EXPERIENCE', 'travel'),
     'education': ExperienceCategory('EDUCATION', 'book'),
