@@ -2,7 +2,9 @@ from collections import OrderedDict
 
 from tinydb import TinyDB, Query
 
-db = TinyDB('db.json')
+from codecats_cv.cnf import PATH
+
+db = TinyDB(PATH.DB)
 dbExperiences = db.table('experiences')
 
 
@@ -19,16 +21,16 @@ class ExperienceCategory:
 # TODO move this into a db table
 # Add new categories here: hobbies, social etc.
 
-NAME_CAT_MAP = OrderedDict({
-    'work': ExperienceCategory('WORK EXPERIENCE', 'travel'),
-    'education': ExperienceCategory('EDUCATION', 'book'),
-})
+NAME_CAT_MAP = [
+    ('work', ExperienceCategory('WORK EXPERIENCE', 'travel')),
+    ('education', ExperienceCategory('EDUCATION', 'book')),
+]
 
 
 def get_experiences():
     q = Query()
     experiences = OrderedDict()
-    for name, cat in NAME_CAT_MAP.items():
+    for name, cat in NAME_CAT_MAP:
         experiences[cat] = dbExperiences.search(q.category == name)
     return experiences
 
